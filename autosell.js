@@ -24,7 +24,7 @@ function autosell(product, money) {
     }
         
     var product ="lime tea"; //Select product
-    var money = 2000; // Pay money
+    var money = 20000; // Pay money
     
     
     console.log(autosell(product, money))
